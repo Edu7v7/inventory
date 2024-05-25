@@ -18,7 +18,7 @@
 			<div class="header">
 				<h2>
 					
-					Stock Report
+					Reporte de cantidad en stock
 					
 				</h2>
 
